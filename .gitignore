@@ -1,0 +1,14 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Exclude Folders
+.github
+.vs
+.git
+Employees/bin
+Contracts/bin
+Contracts/obj
+LoggerService/bin
+LoggerService/obj
+Employees/obj/
+
+# Include Folder
